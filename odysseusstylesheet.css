@@ -1,0 +1,55 @@
+body
+{
+	background-color:#A3D1FF;
+}
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+#location
+{
+	position:relative;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 50px;
+}
+#daysgone
+{
+	position:relative;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+}
+#aboutlink
+{
+	display: block;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+#colordiv
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:300px;
+	border-style: solid;
+	border-width: 5px;
+	background-color: #B0B0B0;
+}
+#description
+{
+	position:relative;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+#headerpic
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 300px;
+}
